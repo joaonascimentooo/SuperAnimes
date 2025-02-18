@@ -26,7 +26,7 @@ SuperAnimes é uma plataforma para os fãs de animes acompanharem suas séries f
 1. Clone o repositório e navegue até a pasta do backend:
    ```sh
    git clone https://github.com/joaonascimentooo/SuperAnimes.git
-   cd SuperAnimes/backend
+   cd superanimes
    ```
 2. Configure o banco de dados no arquivo `application.properties` ou `application.yml`.
 3. Execute o projeto com:
