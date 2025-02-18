@@ -15,7 +15,7 @@ public class AnimeController {
     private AnimeService animeService;
 
     @GetMapping
-    public List<Anime> getAllAnimes(){
+    public List<Anime> getAllAnime(){
         return animeService.getAll();
     }
 
