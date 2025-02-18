@@ -9,7 +9,7 @@ SuperAnimes é uma plataforma para os fãs de animes acompanharem suas séries f
 - **Spring Data JPA** (ORM para interação com o banco de dados)
 - **Spring Security** (Autenticação e autorização)
 - **JWT** (Autenticação baseada em token)
-- **Banco de Dados**: PostgreSQL ou MySQL
+- **Banco de Dados**: MySQL
 - **Swagger** (Documentação da API)
 
 ### Frontend - Next.js
